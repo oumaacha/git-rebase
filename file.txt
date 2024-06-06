@@ -6,3 +6,6 @@
 4- line4 added by local
 5- line5 added by local
 5- line5 added by local
+2- line2 added by local
+3- line3 added by remote
+4- line4 added by remote
