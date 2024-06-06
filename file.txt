@@ -1,1 +1,2 @@
 1- line added by local
+2- line added by remote
